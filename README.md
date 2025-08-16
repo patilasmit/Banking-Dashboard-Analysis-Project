@@ -53,8 +53,3 @@ While this is a **basic Power BI project**, it demonstrates:
 - Integrate **predictive analytics** (churn/loan default risk).  
 
 ---
-
-## 📷 Dashboard Preview
-![UK Bank Customer Dashboard](./dashboard_screenshot.png)
-
----
